@@ -1,5 +1,7 @@
 # AddDirectoryToPath
 
+![App Screenshot](https://github.com/hsuehyt/AddDirectoryToPath/blob/main/images/Screenshot%202025-03-23%20171723.png)
+
 A simple Python GUI tool that allows users to easily add directories to their system PATH environment variable by either pasting the path or browsing for the folder.
 
 ## Features
@@ -29,9 +31,6 @@ python add_to_path_gui.py
 - Run the script.
 - Either paste the directory into the input field or click **Browse** to select a folder.
 - Click **Add** to add the directory to your PATH.
-
-## Screenshot
-![App Screenshot](https://github.com/hsuehyt/AddDirectoryToPath/blob/main/images/Screenshot%202025-03-23%20171723.png)
 
 ## License
 This project is licensed under the MIT License.
